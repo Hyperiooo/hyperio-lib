@@ -39,7 +39,7 @@ setTimeout(() => {
     );
     console.log(ordered)
 
-    var result = uglify.minify(code, {
+    var result = uglify.minify(ordered, {
         keep_fargs: true,
         keep_fnames: true,
         mangle: false
