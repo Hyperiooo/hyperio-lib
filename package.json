@@ -1,0 +1,22 @@
+{
+    "name": "hyperio-lib",
+    "version": "1.0.0",
+    "description": "A Library for functions commonly used in Hyperio products.",
+    "main": "index.js",
+    "author": "Hyperio",
+    "scripts": {
+        "build": "node index.js"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Hyperiooo/hyperio-lib.git"
+    },
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/Hyperiooo/hyperio-lib/issues"
+    },
+    "homepage": "https://github.com/Hyperiooo/hyperio-lib#readme",
+    "dependencies": {
+        "uglify-js": "^3.15.5"
+    }
+}
